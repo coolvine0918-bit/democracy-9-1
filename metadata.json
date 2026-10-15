@@ -1,0 +1,8 @@
+{
+  "name": "민주주의와 시민-정치와 민주주의",
+  "description": "9-1. 정치와 민주주의 전체\n",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
